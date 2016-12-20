@@ -5,8 +5,8 @@
    xmlns="http://www.w3.org/ns/widgets"
    xmlns:gap="http://phonegap.com/ns/1.0">
 
-<name>Magic Beep</name>
-<description>App per rilevare dispositivi</description>
+<name>App Design</name>
+<description>template</description>
 <author email="info@mvitalia.com" href="http://www.mvitalia.com">MVitalia</author>
 <content src="index.html" />
 
